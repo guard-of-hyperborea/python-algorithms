@@ -1,0 +1,5 @@
+rubish_bin.py
+__pycache__/
+.venv/
+.env
+
